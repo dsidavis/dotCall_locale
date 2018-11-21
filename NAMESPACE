@@ -1,0 +1,2 @@
+useDynLib("locale")
+export(foo, bar, istack)

@@ -1,0 +1,5 @@
+Package: locale
+Version: 0.1-0
+Title: Check locale setting from .Call
+Description: Check resetting locale from .Call
+Maintainer: DTL <duncan@r-project.org>
